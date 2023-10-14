@@ -1,7 +1,7 @@
 <h1> SETTING UP DATABASE </h1>
 
 <h2> First step </h2>
-<span>Install Prisma with the following command : npm install prisma --save-dev </span>
+<span>Install Prisma with the following command : ```npm install prisma --save-dev``` </span>
 <h2> Second Step</h2>
 <span>Start a prisma project using the following command : npx prisma init</span>
 <h2> Third Step</h2>
