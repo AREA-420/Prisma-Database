@@ -13,3 +13,5 @@ add the docker-compose.yml file</span>
 <span>`npx prisma migrate dev`</span>
 
 <h2> Now the data base should be up and running</h2>
+<h2>In case you want to visualise the database you can run the following command :
+  ` npx prisma studio`</h2>
